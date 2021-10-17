@@ -36,7 +36,7 @@
     <!-- Page Content-->
     <div class="container-fluid p-0">
         <!-- About-->
-        <section class="resume-section" id="about">
+        <section class="resume-section" id="tentang">
             <div class="resume-section-content">
                 <h1 class="mb-0">
                     Aninditya
@@ -58,7 +58,7 @@
         </section>
         <hr class="m-0" />
         <!-- Experience-->
-        <section class="resume-section" id="experience">
+        <section class="resume-section" id="pengalaman">
             <div class="resume-section-content">
                 <h2 class="mb-5">Pengalaman</h2>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -82,7 +82,7 @@
         </section>
         <hr class="m-0" />
         <!-- Education-->
-        <section class="resume-section" id="education">
+        <section class="resume-section" id="pendidikan">
             <div class="resume-section-content">
                 <h2 class="mb-5">Pendidikan</h2>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
